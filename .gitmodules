@@ -1,0 +1,3 @@
+[submodule "learn_numpy/numpy_course"]
+	path = learn_numpy/numpy_course
+	url = https://github.com/PoLun-Wang/Learn_NumPy.git

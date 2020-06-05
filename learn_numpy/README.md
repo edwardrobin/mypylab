@@ -1,5 +1,4 @@
-<https://www.numpy.org.cn>
-
-<https://github.com/rougier/numpy-100>
-<https://github.com/PoLun-Wang/Learn_NumPy>
-<https://github.com/RafayAK/NothingButNumPy>
+[numpy.org.cn](https://www.numpy.org.cn)
+[rougier/numpy-100](https://github.com/rougier/numpy-100)
+[PoLun-Wang/Learn_NumPy](https://github.com/PoLun-Wang/Learn_NumPy)
+[RafayAK/NothingButNumPy](https://github.com/RafayAK/NothingButNumPy)

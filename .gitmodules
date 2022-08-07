@@ -1,0 +1,9 @@
+[submodule "PythonTutorials"]
+	path = PythonTutorials
+	url = https://github.com/brahmbhattspandan/PythonTutorials
+[submodule "fluent-python-notes"]
+	path = fluent-python-notes
+	url = https://github.com/StdioA/fluent-python-notes
+[submodule "livroLearningPython_MarkLutz"]
+	path = livroLearningPython_MarkLutz
+	url = https://github.com/ferreiramr/livroLearningPython_MarkLutz
